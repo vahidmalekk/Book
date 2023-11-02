@@ -6,3 +6,7 @@
 ## 🪟 windows
 
 * [share folder](windows/share-folder.md)
+
+## 🐧 linux
+
+* [Page 1](linux/page-1.md)
